@@ -1,0 +1,21 @@
+navbar{
+    background-color: aqua;
+    height: 20px;
+    width:30px;
+    align-items: center;
+}
+.picture-image1{
+    height: 50px;
+    width: 30px;
+    align-items: center;
+}
+.picture-image2{
+    height: 50px;
+    width: 30px;
+    align-items: center;
+}
+.picture-image3{
+    height: 50px;
+    width: 30px;
+    align-items: center;
+}
